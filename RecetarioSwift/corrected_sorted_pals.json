@@ -1,0 +1,3524 @@
+{
+    "pals": [
+        {
+            "number": "",
+            "name": "Dragostrophe",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_BlackFurDragon_icon_normal.png",
+            "detail": "/palworld/pals/dragostrophe/",
+            "types": [
+                "/images/elements/Dark_icon.webp",
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Dragon"
+        },
+        {
+            "number": "",
+            "name": "Dragostrophe",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_BlackFurDragon_icon_normal.png",
+            "detail": "/palworld/pals/dragostrophe/",
+            "types": [
+                "/images/elements/Dark_icon.webp",
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "",
+            "name": "Boltmane",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_ElecLion_icon_normal.png",
+            "detail": "/palworld/pals/boltmane/",
+            "types": [
+                "/images/elements/Electric_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Electricity"
+        },
+        {
+            "number": "001",
+            "name": "Lamball",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_SheepBall_icon_normal.png",
+            "detail": "/palworld/pals/lamball/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_12.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "002",
+            "name": "Cattiva",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_PinkCat_icon_normal.png",
+            "detail": "/palworld/pals/cattiva/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "003",
+            "name": "Chikipi",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_ChickenPal_icon_normal.png",
+            "detail": "/palworld/pals/chikipi/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_12.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "004",
+            "name": "Lifmunk",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Carbunclo_icon_normal.png",
+            "detail": "/palworld/pals/lifmunk/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "005",
+            "name": "Foxparks",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Kitsunebi_icon_normal.png",
+            "detail": "/palworld/pals/foxparks/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "006",
+            "name": "Fuack",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_BluePlatypus_icon_normal.png",
+            "detail": "/palworld/pals/fuack/",
+            "types": [
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Water"
+        },
+        {
+            "number": "007",
+            "name": "Sparkit",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_ElecCat_icon_normal.png",
+            "detail": "/palworld/pals/sparkit/",
+            "types": [
+                "/images/elements/Electric_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_03.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Electricity"
+        },
+        {
+            "number": "008",
+            "name": "Tanzee",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Monkey_icon_normal.png",
+            "detail": "/palworld/pals/tanzee/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "009",
+            "name": "Rooby",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FlameBambi_icon_normal.png",
+            "detail": "/palworld/pals/rooby/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "010",
+            "name": "Pengullet",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Penguin_icon_normal.png",
+            "detail": "/palworld/pals/pengullet/",
+            "types": [
+                "/images/elements/Ice_icon.webp",
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Water"
+        },
+        {
+            "number": "010",
+            "name": "Pengullet",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Penguin_icon_normal.png",
+            "detail": "/palworld/pals/pengullet/",
+            "types": [
+                "/images/elements/Ice_icon.webp",
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "011",
+            "name": "Penking",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_CaptainPenguin_icon_normal.png",
+            "detail": "/palworld/pals/penking/",
+            "types": [
+                "/images/elements/Ice_icon.webp",
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Water"
+        },
+        {
+            "number": "011",
+            "name": "Penking",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_CaptainPenguin_icon_normal.png",
+            "detail": "/palworld/pals/penking/",
+            "types": [
+                "/images/elements/Ice_icon.webp",
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "012",
+            "name": "Jolthog",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Hedgehog_icon_normal.png",
+            "detail": "/palworld/pals/jolthog/",
+            "types": [
+                "/images/elements/Electric_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_03.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Electricity"
+        },
+        {
+            "number": "012B",
+            "name": "Jolthog Cryst",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Hedgehog_Ice_icon_normal.png",
+            "detail": "/palworld/pals/jolthog-cryst/",
+            "types": [
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "013",
+            "name": "Gumoss",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_PlantSlime_icon_normal.png",
+            "detail": "/palworld/pals/gumoss/",
+            "types": [
+                "/images/elements/Grass_icon.webp",
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "013",
+            "name": "Gumoss",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_PlantSlime_icon_normal.png",
+            "detail": "/palworld/pals/gumoss/",
+            "types": [
+                "/images/elements/Grass_icon.webp",
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Ground"
+        },
+        {
+            "number": "014",
+            "name": "Vixy",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_CuteFox_icon_normal.png",
+            "detail": "/palworld/pals/vixy/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_12.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "015",
+            "name": "Hoocrates",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_WizardOwl_icon_normal.png",
+            "detail": "/palworld/pals/hoocrates/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "016",
+            "name": "Teafant",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Ganesha_icon_normal.png",
+            "detail": "/palworld/pals/teafant/",
+            "types": [
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Water"
+        },
+        {
+            "number": "017",
+            "name": "Depresso",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_NegativeKoala_icon_normal.png",
+            "detail": "/palworld/pals/depresso/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "018",
+            "name": "Cremis",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_WoolFox_icon_normal.png",
+            "detail": "/palworld/pals/cremis/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_12.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "019",
+            "name": "Daedream",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_DreamDemon_icon_normal.png",
+            "detail": "/palworld/pals/daedream/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "020",
+            "name": "Rushoar",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Boar_icon_normal.png",
+            "detail": "/palworld/pals/rushoar/",
+            "types": [
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Ground"
+        },
+        {
+            "number": "021",
+            "name": "Nox",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_NightFox_icon_normal.png",
+            "detail": "/palworld/pals/nox/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "022",
+            "name": "Fuddler",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_CuteMole_icon_normal.png",
+            "detail": "/palworld/pals/fuddler/",
+            "types": [
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Ground"
+        },
+        {
+            "number": "023",
+            "name": "Killamari",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_NegativeOctopus_icon_normal.png",
+            "detail": "/palworld/pals/killamari/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "024",
+            "name": "Mau",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Bastet_icon_normal.png",
+            "detail": "/palworld/pals/mau/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_12.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "024B",
+            "name": "Mau Cryst",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Bastet_Ice_icon_normal.png",
+            "detail": "/palworld/pals/mau-cryst/",
+            "types": [
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_12.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "025",
+            "name": "Celaray",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FlyingManta_icon_normal.png",
+            "detail": "/palworld/pals/celaray/",
+            "types": [
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Water"
+        },
+        {
+            "number": "026",
+            "name": "Direhowl",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Garm_icon_normal.png",
+            "detail": "/palworld/pals/direhowl/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "027",
+            "name": "Tocotoco",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_ColorfulBird_icon_normal.png",
+            "detail": "/palworld/pals/tocotoco/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "028",
+            "name": "Flopie",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FlowerRabbit_icon_normal.png",
+            "detail": "/palworld/pals/flopie/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "029",
+            "name": "Mozzarina",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_CowPal_icon_normal.png",
+            "detail": "/palworld/pals/mozzarina/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_12.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "030",
+            "name": "Bristla",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_LittleBriarRose_icon_normal.png",
+            "detail": "/palworld/pals/bristla/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "031",
+            "name": "Gobfin",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_SharkKid_icon_normal.png",
+            "detail": "/palworld/pals/gobfin/",
+            "types": [
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Water"
+        },
+        {
+            "number": "031B",
+            "name": "Gobfin Ignis",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_SharkKid_Fire_icon_normal.png",
+            "detail": "/palworld/pals/gobfin-ignis/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "032",
+            "name": "Hangyu",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_WindChimes_icon_normal.png",
+            "detail": "/palworld/pals/hangyu/",
+            "types": [
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Ground"
+        },
+        {
+            "number": "032B",
+            "name": "Hangyu Cryst",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_WindChimes_Ice_icon_normal.png",
+            "detail": "/palworld/pals/hangyu-cryst/",
+            "types": [
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "033",
+            "name": "Mossanda",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_GrassPanda_icon_normal.png",
+            "detail": "/palworld/pals/mossanda/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "033B",
+            "name": "Mossanda Lux",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_GrassPanda_Electric_icon_normal.png",
+            "detail": "/palworld/pals/mossanda-lux/",
+            "types": [
+                "/images/elements/Electric_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_03.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Electricity"
+        },
+        {
+            "number": "034",
+            "name": "Woolipop",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_SweetsSheep_icon_normal.png",
+            "detail": "/palworld/pals/woolipop/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_12.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "035",
+            "name": "Caprity",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_BerryGoat_icon_normal.png",
+            "detail": "/palworld/pals/caprity/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_12.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "036",
+            "name": "Melpaca",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Alpaca_icon_normal.png",
+            "detail": "/palworld/pals/melpaca/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_12.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "037",
+            "name": "Eikthyrdeer",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Deer_icon_normal.png",
+            "detail": "/palworld/pals/eikthyrdeer/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "037B",
+            "name": "Eikthyrdeer Terra",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Deer_Ground_icon_normal.png",
+            "detail": "/palworld/pals/eikthyrdeer-terra/",
+            "types": [
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Ground"
+        },
+        {
+            "number": "038",
+            "name": "Nitewing",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_HawkBird_icon_normal.png",
+            "detail": "/palworld/pals/nitewing/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "039",
+            "name": "Ribbuny",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_PinkRabbit_icon_normal.png",
+            "detail": "/palworld/pals/ribbuny/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "040",
+            "name": "Incineram",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Baphomet_icon_normal.png",
+            "detail": "/palworld/pals/incineram/",
+            "types": [
+                "/images/elements/Fire_icon.webp",
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "040",
+            "name": "Incineram",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Baphomet_icon_normal.png",
+            "detail": "/palworld/pals/incineram/",
+            "types": [
+                "/images/elements/Fire_icon.webp",
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "040B",
+            "name": "Incineram Noct",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Baphomet_Dark_icon_normal.png",
+            "detail": "/palworld/pals/incineram-noct/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "041",
+            "name": "Cinnamoth",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_CuteButterfly_icon_normal.png",
+            "detail": "/palworld/pals/cinnamoth/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "042",
+            "name": "Arsox",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FlameBuffalo_icon_normal.png",
+            "detail": "/palworld/pals/arsox/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "043",
+            "name": "Dumud",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_LazyCatfish_icon_normal.png",
+            "detail": "/palworld/pals/dumud/",
+            "types": [
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_09.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Ground"
+        },
+        {
+            "number": "044",
+            "name": "Cawgnito",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_DarkCrow_icon_normal.png",
+            "detail": "/palworld/pals/cawgnito/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "045",
+            "name": "Leezpunk",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_LizardMan_icon_normal.png",
+            "detail": "/palworld/pals/leezpunk/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "045B",
+            "name": "Leezpunk Ignis",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_LizardMan_Fire_icon_normal.png",
+            "detail": "/palworld/pals/leezpunk-ignis/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "046",
+            "name": "Loupmoon",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Werewolf_icon_normal.png",
+            "detail": "/palworld/pals/loupmoon/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "047",
+            "name": "Galeclaw",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Eagle_icon_normal.png",
+            "detail": "/palworld/pals/galeclaw/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "048",
+            "name": "Robinquill",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_RobinHood_icon_normal.png",
+            "detail": "/palworld/pals/robinquill/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "048B",
+            "name": "Robinquill Terra",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_RobinHood_Ground_icon_normal.png",
+            "detail": "/palworld/pals/robinquill-terra/",
+            "types": [
+                "/images/elements/Grass_icon.webp",
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "048B",
+            "name": "Robinquill Terra",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_RobinHood_Ground_icon_normal.png",
+            "detail": "/palworld/pals/robinquill-terra/",
+            "types": [
+                "/images/elements/Grass_icon.webp",
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Ground"
+        },
+        {
+            "number": "049",
+            "name": "Gorirat",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Gorilla_icon_normal.png",
+            "detail": "/palworld/pals/gorirat/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "050",
+            "name": "Beegarde",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_SoldierBee_icon_normal.png",
+            "detail": "/palworld/pals/beegarde/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_12.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "051",
+            "name": "Elizabee",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_QueenBee_icon_normal.png",
+            "detail": "/palworld/pals/elizabee/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "052",
+            "name": "Grintale",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_NaughtyCat_icon_normal.png",
+            "detail": "/palworld/pals/grintale/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "053",
+            "name": "Swee",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_MopBaby_icon_normal.png",
+            "detail": "/palworld/pals/swee/",
+            "types": [
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "054",
+            "name": "Sweepa",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_MopKing_icon_normal.png",
+            "detail": "/palworld/pals/sweepa/",
+            "types": [
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "055",
+            "name": "Chillet",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_WeaselDragon_icon_normal.png",
+            "detail": "/palworld/pals/chillet/",
+            "types": [
+                "/images/elements/Dragon_icon.webp",
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "055",
+            "name": "Chillet",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_WeaselDragon_icon_normal.png",
+            "detail": "/palworld/pals/chillet/",
+            "types": [
+                "/images/elements/Dragon_icon.webp",
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Dragon"
+        },
+        {
+            "number": "056",
+            "name": "Univolt",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Kirin_icon_normal.png",
+            "detail": "/palworld/pals/univolt/",
+            "types": [
+                "/images/elements/Electric_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_03.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Electricity"
+        },
+        {
+            "number": "057",
+            "name": "Foxcicle",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_IceFox_icon_normal.png",
+            "detail": "/palworld/pals/foxcicle/",
+            "types": [
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "058",
+            "name": "Pyrin",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FireKirin_icon_normal.png",
+            "detail": "/palworld/pals/pyrin/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "058B",
+            "name": "Pyrin Noct",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FireKirin_Dark_icon_normal.png",
+            "detail": "/palworld/pals/pyrin-noct/",
+            "types": [
+                "/images/elements/Fire_icon.webp",
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "058B",
+            "name": "Pyrin Noct",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FireKirin_Dark_icon_normal.png",
+            "detail": "/palworld/pals/pyrin-noct/",
+            "types": [
+                "/images/elements/Fire_icon.webp",
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "059",
+            "name": "Reindrix",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_IceDeer_icon_normal.png",
+            "detail": "/palworld/pals/reindrix/",
+            "types": [
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "060",
+            "name": "Rayhound",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_ThunderDog_icon_normal.png",
+            "detail": "/palworld/pals/rayhound/",
+            "types": [
+                "/images/elements/Electric_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_03.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Electricity"
+        },
+        {
+            "number": "061",
+            "name": "Kitsun",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_AmaterasuWolf_icon_normal.png",
+            "detail": "/palworld/pals/kitsun/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "062",
+            "name": "Dazzi",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_RaijinDaughter_icon_normal.png",
+            "detail": "/palworld/pals/dazzi/",
+            "types": [
+                "/images/elements/Electric_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_03.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Electricity"
+        },
+        {
+            "number": "063",
+            "name": "Lunaris",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Mutant_icon_normal.png",
+            "detail": "/palworld/pals/lunaris/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "064",
+            "name": "Dinossom",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FlowerDinosaur_icon_normal.png",
+            "detail": "/palworld/pals/dinossom/",
+            "types": [
+                "/images/elements/Dragon_icon.webp",
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "064",
+            "name": "Dinossom",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FlowerDinosaur_icon_normal.png",
+            "detail": "/palworld/pals/dinossom/",
+            "types": [
+                "/images/elements/Dragon_icon.webp",
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Dragon"
+        },
+        {
+            "number": "064B",
+            "name": "Dinossom Lux",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FlowerDinosaur_Electric_icon_normal.png",
+            "detail": "/palworld/pals/dinossom-lux/",
+            "types": [
+                "/images/elements/Electric_icon.webp",
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_03.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Dragon"
+        },
+        {
+            "number": "064B",
+            "name": "Dinossom Lux",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FlowerDinosaur_Electric_icon_normal.png",
+            "detail": "/palworld/pals/dinossom-lux/",
+            "types": [
+                "/images/elements/Electric_icon.webp",
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_03.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Electricity"
+        },
+        {
+            "number": "065",
+            "name": "Surfent",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Serpent_icon_normal.png",
+            "detail": "/palworld/pals/surfent/",
+            "types": [
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Water"
+        },
+        {
+            "number": "065B",
+            "name": "Surfent Terra",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Serpent_Ground_icon_normal.png",
+            "detail": "/palworld/pals/surfent-terra/",
+            "types": [
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Ground"
+        },
+        {
+            "number": "066",
+            "name": "Maraith",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_GhostBeast_icon_normal.png",
+            "detail": "/palworld/pals/maraith/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "067",
+            "name": "Digtoise",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_DrillGame_icon_normal.png",
+            "detail": "/palworld/pals/digtoise/",
+            "types": [
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Ground"
+        },
+        {
+            "number": "068",
+            "name": "Tombat",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_CatBat_icon_normal.png",
+            "detail": "/palworld/pals/tombat/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "069",
+            "name": "Lovander",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_PinkLizard_icon_normal.png",
+            "detail": "/palworld/pals/lovander/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "070",
+            "name": "Flambelle",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_LavaGirl_icon_normal.png",
+            "detail": "/palworld/pals/flambelle/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_12.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "071",
+            "name": "Vanwyrm",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_BirdDragon_icon_normal.png",
+            "detail": "/palworld/pals/vanwyrm/",
+            "types": [
+                "/images/elements/Fire_icon.webp",
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "071",
+            "name": "Vanwyrm",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_BirdDragon_icon_normal.png",
+            "detail": "/palworld/pals/vanwyrm/",
+            "types": [
+                "/images/elements/Fire_icon.webp",
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "071B",
+            "name": "Vanwyrm Cryst",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_BirdDragon_Ice_icon_normal.png",
+            "detail": "/palworld/pals/vanwyrm-cryst/",
+            "types": [
+                "/images/elements/Dark_icon.webp",
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "071B",
+            "name": "Vanwyrm Cryst",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_BirdDragon_Ice_icon_normal.png",
+            "detail": "/palworld/pals/vanwyrm-cryst/",
+            "types": [
+                "/images/elements/Dark_icon.webp",
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "072",
+            "name": "Bushi",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Ronin_icon_normal.png",
+            "detail": "/palworld/pals/bushi/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "073",
+            "name": "Beakon",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_ThunderBird_icon_normal.png",
+            "detail": "/palworld/pals/beakon/",
+            "types": [
+                "/images/elements/Electric_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_03.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Electricity"
+        },
+        {
+            "number": "074",
+            "name": "Ragnahawk",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_RedArmorBird_icon_normal.png",
+            "detail": "/palworld/pals/ragnahawk/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "075",
+            "name": "Katress",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_CatMage_icon_normal.png",
+            "detail": "/palworld/pals/katress/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "076",
+            "name": "Wixen",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FoxMage_icon_normal.png",
+            "detail": "/palworld/pals/wixen/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "077",
+            "name": "Verdash",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_GrassRabbitMan_icon_normal.png",
+            "detail": "/palworld/pals/verdash/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "078",
+            "name": "Vaelet",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_VioletFairy_icon_normal.png",
+            "detail": "/palworld/pals/vaelet/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "079",
+            "name": "Sibelyx",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_WhiteMoth_icon_normal.png",
+            "detail": "/palworld/pals/sibelyx/",
+            "types": [
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_12.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "080",
+            "name": "Elphidran",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FairyDragon_icon_normal.png",
+            "detail": "/palworld/pals/elphidran/",
+            "types": [
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Dragon"
+        },
+        {
+            "number": "080B",
+            "name": "Elphidran Aqua",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FairyDragon_Water_icon_normal.png",
+            "detail": "/palworld/pals/elphidran-aqua/",
+            "types": [
+                "/images/elements/Dragon_icon.webp",
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Water"
+        },
+        {
+            "number": "080B",
+            "name": "Elphidran Aqua",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FairyDragon_Water_icon_normal.png",
+            "detail": "/palworld/pals/elphidran-aqua/",
+            "types": [
+                "/images/elements/Dragon_icon.webp",
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Dragon"
+        },
+        {
+            "number": "081",
+            "name": "Kelpsea",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Kelpie_icon_normal.png",
+            "detail": "/palworld/pals/kelpsea/",
+            "types": [
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Water"
+        },
+        {
+            "number": "081B",
+            "name": "Kelpsea Ignis",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Kelpie_Fire_icon_normal.png",
+            "detail": "/palworld/pals/kelpsea-ignis/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "082",
+            "name": "Azurobe",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_BlueDragon_icon_normal.png",
+            "detail": "/palworld/pals/azurobe/",
+            "types": [
+                "/images/elements/Dragon_icon.webp",
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Water"
+        },
+        {
+            "number": "082",
+            "name": "Azurobe",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_BlueDragon_icon_normal.png",
+            "detail": "/palworld/pals/azurobe/",
+            "types": [
+                "/images/elements/Dragon_icon.webp",
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Dragon"
+        },
+        {
+            "number": "083",
+            "name": "Cryolinx",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_WhiteTiger_icon_normal.png",
+            "detail": "/palworld/pals/cryolinx/",
+            "types": [
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "084",
+            "name": "Blazehowl",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Manticore_icon_normal.png",
+            "detail": "/palworld/pals/blazehowl/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "084B",
+            "name": "Blazehowl Noct",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Manticore_Dark_icon_normal.png",
+            "detail": "/palworld/pals/blazehowl-noct/",
+            "types": [
+                "/images/elements/Fire_icon.webp",
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "084B",
+            "name": "Blazehowl Noct",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Manticore_Dark_icon_normal.png",
+            "detail": "/palworld/pals/blazehowl-noct/",
+            "types": [
+                "/images/elements/Fire_icon.webp",
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "085",
+            "name": "Relaxaurus",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_LazyDragon_icon_normal.png",
+            "detail": "/palworld/pals/relaxaurus/",
+            "types": [
+                "/images/elements/Dragon_icon.webp",
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Water"
+        },
+        {
+            "number": "085",
+            "name": "Relaxaurus",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_LazyDragon_icon_normal.png",
+            "detail": "/palworld/pals/relaxaurus/",
+            "types": [
+                "/images/elements/Dragon_icon.webp",
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Dragon"
+        },
+        {
+            "number": "085B",
+            "name": "Relaxaurus Lux",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_LazyDragon_Electric_icon_normal.png",
+            "detail": "/palworld/pals/relaxaurus-lux/",
+            "types": [
+                "/images/elements/Electric_icon.webp",
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_03.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Dragon"
+        },
+        {
+            "number": "085B",
+            "name": "Relaxaurus Lux",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_LazyDragon_Electric_icon_normal.png",
+            "detail": "/palworld/pals/relaxaurus-lux/",
+            "types": [
+                "/images/elements/Electric_icon.webp",
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_03.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Electricity"
+        },
+        {
+            "number": "086",
+            "name": "Broncherry",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_SakuraSaurus_icon_normal.png",
+            "detail": "/palworld/pals/broncherry/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "086B",
+            "name": "Broncherry Aqua",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_SakuraSaurus_Water_icon_normal.png",
+            "detail": "/palworld/pals/broncherry-aqua/",
+            "types": [
+                "/images/elements/Grass_icon.webp",
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "086B",
+            "name": "Broncherry Aqua",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_SakuraSaurus_Water_icon_normal.png",
+            "detail": "/palworld/pals/broncherry-aqua/",
+            "types": [
+                "/images/elements/Grass_icon.webp",
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Water"
+        },
+        {
+            "number": "087",
+            "name": "Petallia",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FlowerDoll_icon_normal.png",
+            "detail": "/palworld/pals/petallia/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "088",
+            "name": "Reptyro",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_VolcanicMonster_icon_normal.png",
+            "detail": "/palworld/pals/reptyro/",
+            "types": [
+                "/images/elements/Fire_icon.webp",
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "088",
+            "name": "Reptyro",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_VolcanicMonster_icon_normal.png",
+            "detail": "/palworld/pals/reptyro/",
+            "types": [
+                "/images/elements/Fire_icon.webp",
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Ground"
+        },
+        {
+            "number": "088B",
+            "name": "Ice Reptyro",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_VolcanicMonster_Ice_icon_normal.png",
+            "detail": "/palworld/pals/ice-reptyro/",
+            "types": [
+                "/images/elements/Ground_icon.webp",
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Ground"
+        },
+        {
+            "number": "088B",
+            "name": "Ice Reptyro",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_VolcanicMonster_Ice_icon_normal.png",
+            "detail": "/palworld/pals/ice-reptyro/",
+            "types": [
+                "/images/elements/Ground_icon.webp",
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "089",
+            "name": "Kingpaca",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_KingAlpaca_icon_normal.png",
+            "detail": "/palworld/pals/kingpaca/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "089B",
+            "name": "Ice Kingpaca",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_KingAlpaca_Ice_icon_normal.png",
+            "detail": "/palworld/pals/ice-kingpaca/",
+            "types": [
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "090",
+            "name": "Mammorest",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_GrassMammoth_icon_normal.png",
+            "detail": "/palworld/pals/mammorest/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "090B",
+            "name": "Mammorest Cryst",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_GrassMammoth_Ice_icon_normal.png",
+            "detail": "/palworld/pals/mammorest-cryst/",
+            "types": [
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "091",
+            "name": "Wumpo",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Yeti_icon_normal.png",
+            "detail": "/palworld/pals/wumpo/",
+            "types": [
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "4"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "091B",
+            "name": "Wumpo Botan",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Yeti_Grass_icon_normal.png",
+            "detail": "/palworld/pals/wumpo-botan/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "4"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "092",
+            "name": "Warsect ",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_HerculesBeetle_icon_normal.png",
+            "detail": "/palworld/pals/warsect-/",
+            "types": [
+                "/images/elements/Grass_icon.webp",
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "092",
+            "name": "Warsect ",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_HerculesBeetle_icon_normal.png",
+            "detail": "/palworld/pals/warsect-/",
+            "types": [
+                "/images/elements/Grass_icon.webp",
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Ground"
+        },
+        {
+            "number": "093",
+            "name": "Fenglope",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_FengyunDeeper_icon_normal.png",
+            "detail": "/palworld/pals/fenglope/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "095",
+            "name": "Quivern",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_SkyDragon_icon_normal.png",
+            "detail": "/palworld/pals/quivern/",
+            "types": [
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Dragon"
+        },
+        {
+            "number": "096",
+            "name": "Blazamut",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_KingBahamut_icon_normal.png",
+            "detail": "/palworld/pals/blazamut/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "4"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "097",
+            "name": "Helzephyr",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_HadesBird_icon_normal.png",
+            "detail": "/palworld/pals/helzephyr/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "098",
+            "name": "Astegon",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_BlackMetalDragon_icon_normal.png",
+            "detail": "/palworld/pals/astegon/",
+            "types": [
+                "/images/elements/Dark_icon.webp",
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "4"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_09.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Dragon"
+        },
+        {
+            "number": "098",
+            "name": "Astegon",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_BlackMetalDragon_icon_normal.png",
+            "detail": "/palworld/pals/astegon/",
+            "types": [
+                "/images/elements/Dark_icon.webp",
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "1"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "4"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_09.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "099",
+            "name": "Menasting",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_DarkScorpion_icon_normal.png",
+            "detail": "/palworld/pals/menasting/",
+            "types": [
+                "/images/elements/Dark_icon.webp",
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Ground"
+        },
+        {
+            "number": "099",
+            "name": "Menasting",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_DarkScorpion_icon_normal.png",
+            "detail": "/palworld/pals/menasting/",
+            "types": [
+                "/images/elements/Dark_icon.webp",
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "100",
+            "name": "Anubis",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Anubis_icon_normal.png",
+            "detail": "/palworld/pals/anubis/",
+            "types": [
+                "/images/elements/Ground_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "4"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Ground"
+        },
+        {
+            "number": "101",
+            "name": "Jormuntide",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Umihebi_icon_normal.png",
+            "detail": "/palworld/pals/jormuntide/",
+            "types": [
+                "/images/elements/Dragon_icon.webp",
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "4"
+                }
+            ],
+            "type": "Water"
+        },
+        {
+            "number": "101",
+            "name": "Jormuntide",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Umihebi_icon_normal.png",
+            "detail": "/palworld/pals/jormuntide/",
+            "types": [
+                "/images/elements/Dragon_icon.webp",
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "4"
+                }
+            ],
+            "type": "Dragon"
+        },
+        {
+            "number": "101B",
+            "name": "Jormuntide Ignis",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Umihebi_Fire_icon_normal.png",
+            "detail": "/palworld/pals/jormuntide-ignis/",
+            "types": [
+                "/images/elements/Fire_icon.webp",
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "4"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "101B",
+            "name": "Jormuntide Ignis",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Umihebi_Fire_icon_normal.png",
+            "detail": "/palworld/pals/jormuntide-ignis/",
+            "types": [
+                "/images/elements/Fire_icon.webp",
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "4"
+                }
+            ],
+            "type": "Dragon"
+        },
+        {
+            "number": "102",
+            "name": "Suzaku",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Suzaku_icon_normal.png",
+            "detail": "/palworld/pals/suzaku/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "102B",
+            "name": "Suzaku Aqua",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Suzaku_Water_icon_normal.png",
+            "detail": "/palworld/pals/suzaku-aqua/",
+            "types": [
+                "/images/elements/Water_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_01.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Water"
+        },
+        {
+            "number": "103",
+            "name": "Grizzbolt",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_ElecPanda_icon_normal.png",
+            "detail": "/palworld/pals/grizzbolt/",
+            "types": [
+                "/images/elements/Electric_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_03.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Electricity"
+        },
+        {
+            "number": "104",
+            "name": "Lyleen",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_LilyQueen_icon_normal.png",
+            "detail": "/palworld/pals/lyleen/",
+            "types": [
+                "/images/elements/Grass_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_02.webp",
+                    "level": "4"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Grass"
+        },
+        {
+            "number": "104B",
+            "name": "Lyleen Noct",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_LilyQueen_Dark_icon_normal.png",
+            "detail": "/palworld/pals/lyleen-noct/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "105",
+            "name": "Faleris",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_Horus_icon_normal.png",
+            "detail": "/palworld/pals/faleris/",
+            "types": [
+                "/images/elements/Fire_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_00.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Fire"
+        },
+        {
+            "number": "106",
+            "name": "Orserk",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_ThunderDragonMan_icon_normal.png",
+            "detail": "/palworld/pals/orserk/",
+            "types": [
+                "/images/elements/Electric_icon.webp",
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_03.webp",
+                    "level": "4"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Dragon"
+        },
+        {
+            "number": "106",
+            "name": "Orserk",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_ThunderDragonMan_icon_normal.png",
+            "detail": "/palworld/pals/orserk/",
+            "types": [
+                "/images/elements/Electric_icon.webp",
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_03.webp",
+                    "level": "4"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_04.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_11.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Electricity"
+        },
+        {
+            "number": "107",
+            "name": "Shadowbeak",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_BlackGriffon_icon_normal.png",
+            "detail": "/palworld/pals/shadowbeak/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "1"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "108",
+            "name": "Paladius",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_SaintCentaur_icon_normal.png",
+            "detail": "/palworld/pals/paladius/",
+            "types": [
+                "/images/elements/Neutral_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Normal"
+        },
+        {
+            "number": "109",
+            "name": "Necromus",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_BlackCentaur_icon_normal.png",
+            "detail": "/palworld/pals/necromus/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_06.webp",
+                    "level": "2"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_07.webp",
+                    "level": "2"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "110",
+            "name": "Frostallion",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_IceHorse_icon_normal.png",
+            "detail": "/palworld/pals/frostallion/",
+            "types": [
+                "/images/elements/Ice_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_10.webp",
+                    "level": "4"
+                }
+            ],
+            "type": "Ice"
+        },
+        {
+            "number": "110B",
+            "name": "Frostallion Noct",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_IceHorse_Dark_icon_normal.png",
+            "detail": "/palworld/pals/frostallion-noct/",
+            "types": [
+                "/images/elements/Dark_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "4"
+                }
+            ],
+            "type": "Dark"
+        },
+        {
+            "number": "111",
+            "name": "Jetragon",
+            "image": "https://paldex.io/cdn-cgi/image/format=auto,width=200/images/pal-icons/T_JetDragon_icon_normal.png",
+            "detail": "/palworld/pals/jetragon/",
+            "types": [
+                "/images/elements/Dragon_icon.webp"
+            ],
+            "jobs": [
+                {
+                    "img": "/images/elements/T_icon_palwork_05.webp",
+                    "level": "3"
+                },
+                {
+                    "img": "/images/elements/T_icon_palwork_09.webp",
+                    "level": "3"
+                }
+            ],
+            "type": "Dragon"
+        }
+    ]
+}

@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD65F6992B6C4720003562B1 /* PaldexParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD65F6982B6C4720003562B1 /* PaldexParser.swift */; };
+		DD65F69B2B6C4732003562B1 /* Pal.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD65F69A2B6C4732003562B1 /* Pal.swift */; };
+		DD65F69D2B6C4993003562B1 /* PalParserTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD65F69C2B6C4993003562B1 /* PalParserTest.swift */; };
+		DD65F6A22B6C4C2C003562B1 /* corrected_sorted_pals.json in Resources */ = {isa = PBXBuildFile; fileRef = DD65F6A12B6C4C2C003562B1 /* corrected_sorted_pals.json */; };
 		DDB7E4882B69BD6000430536 /* RecetarioSwiftApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB7E4872B69BD6000430536 /* RecetarioSwiftApp.swift */; };
 		DDB7E48A2B69BD6000430536 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB7E4892B69BD6000430536 /* ContentView.swift */; };
 		DDB7E48C2B69BD6100430536 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDB7E48B2B69BD6100430536 /* Assets.xcassets */; };
@@ -34,6 +38,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DD65F6982B6C4720003562B1 /* PaldexParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaldexParser.swift; sourceTree = "<group>"; };
+		DD65F69A2B6C4732003562B1 /* Pal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pal.swift; sourceTree = "<group>"; };
+		DD65F69C2B6C4993003562B1 /* PalParserTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalParserTest.swift; sourceTree = "<group>"; };
+		DD65F6A12B6C4C2C003562B1 /* corrected_sorted_pals.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = corrected_sorted_pals.json; path = Content/corrected_sorted_pals.json; sourceTree = "<group>"; };
 		DDB7E4842B69BD6000430536 /* RecetarioSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RecetarioSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDB7E4872B69BD6000430536 /* RecetarioSwiftApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecetarioSwiftApp.swift; sourceTree = "<group>"; };
 		DDB7E4892B69BD6000430536 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -71,6 +79,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DD65F6972B6C46ED003562B1 /* PaldexList */ = {
+			isa = PBXGroup;
+			children = (
+				DD65F6982B6C4720003562B1 /* PaldexParser.swift */,
+				DD65F69A2B6C4732003562B1 /* Pal.swift */,
+			);
+			path = PaldexList;
+			sourceTree = "<group>";
+		};
 		DDB7E47B2B69BD6000430536 = {
 			isa = PBXGroup;
 			children = (
@@ -95,7 +112,9 @@
 			isa = PBXGroup;
 			children = (
 				DDB7E4872B69BD6000430536 /* RecetarioSwiftApp.swift */,
+				DD65F6972B6C46ED003562B1 /* PaldexList */,
 				DDB7E4892B69BD6000430536 /* ContentView.swift */,
+				DD65F6A12B6C4C2C003562B1 /* corrected_sorted_pals.json */,
 				DDB7E48B2B69BD6100430536 /* Assets.xcassets */,
 				DDB7E48D2B69BD6100430536 /* Preview Content */,
 			);
@@ -114,6 +133,7 @@
 			isa = PBXGroup;
 			children = (
 				DDB7E4982B69BD6100430536 /* RecetarioSwiftTests.swift */,
+				DD65F69C2B6C4993003562B1 /* PalParserTest.swift */,
 			);
 			path = RecetarioSwiftTests;
 			sourceTree = "<group>";
@@ -231,6 +251,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD65F6A22B6C4C2C003562B1 /* corrected_sorted_pals.json in Resources */,
 				DDB7E48F2B69BD6100430536 /* Preview Assets.xcassets in Resources */,
 				DDB7E48C2B69BD6100430536 /* Assets.xcassets in Resources */,
 			);
@@ -257,6 +278,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD65F6992B6C4720003562B1 /* PaldexParser.swift in Sources */,
+				DD65F69B2B6C4732003562B1 /* Pal.swift in Sources */,
 				DDB7E48A2B69BD6000430536 /* ContentView.swift in Sources */,
 				DDB7E4882B69BD6000430536 /* RecetarioSwiftApp.swift in Sources */,
 			);
@@ -266,6 +289,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD65F69D2B6C4993003562B1 /* PalParserTest.swift in Sources */,
 				DDB7E4992B69BD6100430536 /* RecetarioSwiftTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
